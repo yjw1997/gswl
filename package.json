@@ -28,7 +28,7 @@
     "lodash.pick": "^4.4.0",
     "md5": "^2.2.1",
     "mockjs": "^1.1.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nprogress": "^0.2.0",
     "nrm": "^1.2.1",
     "sass-loader": "^8.0.2",
